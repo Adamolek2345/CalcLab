@@ -22,8 +22,8 @@ These scripts are made using Python 3. To run them, you can use the official Pyt
 <pre> sudo apt update</pre>
 -Now, install python if you don't have it:
 <pre> sudo apt install python3</pre>
-You can also use any third-party IDE. As I mentioned in the description, this code can be ran directly
-using the Python 3 console, without using any libraries. You can use any Python that is 3.x.x.
+As I mentioned in the description, this code can be ran directlyusing the Python 3 console, without using any
+libraries. You can also use any third-party IDE, but it has to be Python 3 or newer (3.x.x)
 
 Screenshot of Python 3 console: ![Image](https://github.com/Adamolek2345/Python-Calculators/blob/e053f336e3aa6629277407b28268362ac52c0ec2/Images/python3Screenshot.jpg)
 
