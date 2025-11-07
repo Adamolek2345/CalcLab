@@ -23,6 +23,7 @@ You can use any Python that is 3.x.x.
 Screenshot of Python 3 console: ![Image](https://github.com/Adamolek2345/Python-Calculators/blob/e053f336e3aa6629277407b28268362ac52c0ec2/Images/python3Screenshot.jpg)
 
 
+
 # Disclaimer
 This project doesn't have any affiliation with Python OR any other brands mentioned. I also want
 to add that this code is fully open source, which means that it can be installed and modified by
