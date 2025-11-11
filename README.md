@@ -23,6 +23,10 @@ libraries. You can also use any third-party IDE, but it has to be Python 3 or ne
 
 Screenshot of Python 3 console: ![Image](https://github.com/Adamolek2345/Python-Calculators/blob/e053f336e3aa6629277407b28268362ac52c0ec2/Images/python3Screenshot.jpg)
 
+# Current Calculators 📂
+- PyCalc Battery Calculator v1.0
+New ones are coming !
+
 # Contributing 👍
 Contributing to this project would be a great help. There are many ways you could help me, such as reporting bugs, so I can fix them. You can also spread this library, so more people can contribute. You can send me ideas for fixes or even new code, which I will verify and then post, so feel free to contribute, it would really help me !
 
