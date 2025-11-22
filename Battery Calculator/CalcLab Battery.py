@@ -17,7 +17,7 @@ version = "1.0"
 
 print("=====Welcome to the Battery Calculator=====\n")
 sleep(1)
-print("PyCalc Battery Version", version)
+print("CalcLab Battery Version", version)
 sleep(1)
 print("Proceeding to calculator...\n")
 
@@ -50,6 +50,6 @@ needed_bank_weight = desired_weight / battery_weight
 
 sleep(2)
 #Big thanks to contributors AND users !
-print("\n\nThank you for using PyCalc Battery Calculator Version", version, "!")
+print("\n\nThank you for using CalcLab Battery Calculator Version", version, "!")
 print("If you find any bugs or issues, please report them on my GitHub profile (Adamolek2345)")
 print("Also a huge thanks for the contributors of my project for the help !")
