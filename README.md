@@ -3,7 +3,7 @@
 
 
 # This Repository ➕➖
-This repository, PyCalc is where I develop different python calculators, such as download speed
+This repository, CalcLab is where I develop different python calculators, such as download speed
 calculators or battery calculators. I also make measuring scripts for different purposes, such as batteries. All of the calculators will be presented in the files and the changelog. Not only do I work on code and fix issues here, but I also publish Updates and Bug Fixes. I also want to add that all of the code in this repository can be ran without any Python Packages, and it can work with the original Python 3 console. This source code is available to everyone, and can be modified.
 
 
