@@ -15,9 +15,9 @@ These scripts are made using Python 3. To run them, you can use the official Pyt
 "https://www.python.org/downloads", or using the command below if you use bash:
 
 -First, update Superuser (sudo):
-'''bash
+```bash
 sudo apt update
-'''
+```
 
 -Now, install python if you don't have it:
 <pre> sudo apt install python3</pre>
