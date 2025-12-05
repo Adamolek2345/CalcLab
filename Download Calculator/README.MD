@@ -7,6 +7,8 @@ find any of these, please report them to my git page, so I can fix them. Thank y
 
 # Compatibility
 I want to imply that this calculatro works in the standard python 3 console, without any packages (screenshot below).
+
+
 ![py3photo](https://github.com/Adamolek2345/CalcLab/blob/c7702da4109dde36a0fab371a31a63c6619a0ef6/Images/python3Screenshot.jpg)
 
 
