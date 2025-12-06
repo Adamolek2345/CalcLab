@@ -13,7 +13,7 @@
 
 from time import sleep
 
-version = "1.0"
+version = "1.1"
 
 print("===== Welcome to Download Calculator =====\n")
 sleep(1)
@@ -46,3 +46,9 @@ else:
     print("Exiting in 3 seconds...")
     sleep(3)
     exit()
+
+sleep(2)
+#Big thanks to contributors AND users !
+print("\n\nThank you for using PyCalc Download Calculator Version", version, "!")
+print("If you find any bugs or issues, please report them on my GitHub profile (Adamolek2345)")
+print("Also a huge thanks for the contributors of my project for the help !")
