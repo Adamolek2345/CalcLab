@@ -23,6 +23,12 @@ sudo apt update
 ```bash
 sudo apt install python3
 ```
+-Now, run the python console on your terminal:
+```bash
+python3
+```
+
+Now, just open or paste the code and use it !
 As I mentioned in the description, this code can be run directly using the Python 3 console, without using any
 libraries. You can also use any third-party IDE, but it has to be Python 3 or newer (3.x.x)
 
@@ -30,7 +36,7 @@ Screenshot of Python 3 console: ![Image](https://github.com/Adamolek2345/Python-
 
 # Current Calculators 📂
 - CalcLab Battery Calculator v1.0
-- CalcLab Download CAlculator v1.0
+- CalcLab Download Calculator v1.0
 New ones are coming !
 
 # Contributing 👍
